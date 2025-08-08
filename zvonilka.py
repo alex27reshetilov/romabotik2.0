@@ -8,9 +8,9 @@ from collections import OrderedDict
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler
 
-ZADARMA_API_KEY = os.environ.get('ZADARMA_API_KEY')
-ZADARMA_API_SECRET = os.environ.get('ZADARMA_API_SECRET')
-TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
+ZADARMA_API_KEY = os.environ.get('6c86fb373480ef5dc33e')
+ZADARMA_API_SECRET = os.environ.get('66105564331d605a7dfc)
+TELEGRAM_TOKEN = os.environ.get('8415834033:AAGRcCypAwUH4YNNCJzCoPThn5GQ7HrQ8uE')
 
 ENTRY_NUMBER = '101'
 EXIT_NUMBER = '102'
